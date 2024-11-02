@@ -1,0 +1,20 @@
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.csproj.AssemblyReference.cache
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.Form1.resources
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.Properties.Resources.resources
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.csproj.GenerateResource.cache
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.csproj.CoreCompileInputs.cache
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\bin\Debug\ExamenJesusJimenez.exe.config
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\bin\Debug\ExamenJesusJimenez.exe
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\bin\Debug\ExamenJesusJimenez.pdb
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.exe
+C:\Users\HP\C# PROYECTOS\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.pdb
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\bin\Debug\ExamenJesusJimenez.exe.config
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\bin\Debug\ExamenJesusJimenez.exe
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\bin\Debug\ExamenJesusJimenez.pdb
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.Properties.Resources.resources
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.exe
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\ExamenJesusJimenez.pdb
+C:\Users\HP\Desktop\Act09\ExamenJesusJimenez\ExamenJesusJimenez\obj\Debug\Actividad09.Form1.resources
